@@ -39,7 +39,7 @@ A ferramenta "Qual o Peso das Suas Escolhas?" avalia hábitos relacionados à re
 O projeto pode ser acessado através do GitHub Pages:
 
 **Link do site:**
-(Adicionar aqui o link gerado pelo GitHub Pages)
+https://henriquehunzicker-lang.github.io/agrinho2026
 
 ## Autor
 
